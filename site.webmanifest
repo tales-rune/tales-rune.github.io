@@ -1,14 +1,15 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "테일즈룬",
+    "short_name": "테일즈룬",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "icons": [
         {
             "src": "/android-chrome-96x96.png",
             "sizes": "96x96",
             "type": "image/png"
         }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    ]
 }

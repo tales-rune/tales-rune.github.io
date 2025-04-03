@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[530],{1877:(_,n,i)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/simulations/redistribution",function(){return i(45477)}])}},_=>{var n=n=>_(_.s=n);_.O(0,[802,271,815,884,477,636,593,792],()=>n(1877)),_N_E=_.O()}]);
