@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[36],{61500:(_,u,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/simulations",function(){return e(94868)}])},94868:(_,u,e)=>{"use strict";e.r(u),e.d(u,{__N_SSG:()=>n,default:()=>t});var s=e(45477),n=!0;let t=s.default}},_=>{var u=u=>_(_.s=u);_.O(0,[802,271,815,884,477,636,593,792],()=>u(61500)),_N_E=_.O()}]);

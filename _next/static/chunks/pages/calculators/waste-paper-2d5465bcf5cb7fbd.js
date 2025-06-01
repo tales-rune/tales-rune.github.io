@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[553],{62641:(_,a,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/calculators/waste-paper",function(){return e(41796)}])}},_=>{var a=a=>_(_.s=a);_.O(0,[114,815,118,996,943,796,636,593,792],()=>a(62641)),_N_E=_.O()}]);
